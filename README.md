@@ -24,10 +24,3 @@ Dự án này xây dựng một mô hình tối ưu hóa toán học để tạo
 
 ---
 
-├── data/              # Input data files (staff, shifts, constraints)
-├── model/             # Mathematical model code
-├── output/            # Generated schedules
-├── utils/             # Helper functions
-├── main.py            # Run the full pipeline
-├── requirements.txt   # Python dependencies
-└── README.md          # Project description
