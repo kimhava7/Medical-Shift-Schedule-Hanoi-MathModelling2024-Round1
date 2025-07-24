@@ -1,4 +1,4 @@
-# 🏥 Clinic Shift Scheduler ( Mô hình lập tối ưu ca trực cho trạm y tế)
+# 🏥 Clinic Shift Scheduler Model ( Mô hình tối ưu ca trực cho trạm y tế)
 
 This project implements a mathematical optimization model to generate fair and efficient shift schedules for healthcare staff at a community clinic.  
 Dự án này xây dựng một mô hình tối ưu hóa toán học để tạo lịch trực công bằng và hiệu quả cho nhân viên y tế tại một trạm y tế cộng đồng.
